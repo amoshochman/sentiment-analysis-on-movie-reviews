@@ -3,7 +3,7 @@ A Jupyter Notebook for the Kaggle competition: Classify the sentiment of sentenc
 
 All the details, at https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 
-Main tools used in the notebook:
+Main tools used:
 - Trees ensemble models: Random Forest, Ada Boost.
 - Text vectorization: BOW, TF-IDF, Word2vec, BERT.
 - Neural Networks: a sequential model with one fully connected hidden layer.
